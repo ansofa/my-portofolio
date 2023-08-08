@@ -36,3 +36,16 @@ body {
     padding: 1em;
     background-color: #fff;
   }
+  /* Section Profile */
+  .social-media {
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 2em;
+  }
+  .social-media a {
+    display: inline-block;
+    margin: 0 10px;
+    color: #333;
+    font-size: 1.5em;
+  }
+  
